@@ -1,4 +1,4 @@
-# Real-time Audio Transcription with GCP Speech-to-Text and OpenAI Speaker Diarization (POC)
+# Real-time Audio Transcription with Google Speech-to-Text and OpenAI Speaker Diarization (POC)
 
 A Python application that performs real-time audio transcription using Google Cloud Platform's Speech-to-Text API via WebSocket protocol, followed by OpenAI-powered speaker diarization for call conversations. The application captures microphone input and provides low-latency transcription with a 30-second recording limit.
 

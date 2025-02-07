@@ -3,10 +3,7 @@
 A Python application that performs real-time audio transcription using Google Cloud Platform's Speech-to-Text API via WebSocket protocol, followed by OpenAI-powered speaker diarization for call conversations. The application captures microphone input and provides low-latency transcription with a 30-second recording limit.
 
 ---
-<video width="320" height="240" controls>
-  <source src="video_sample.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch demo video](video_sample.mp4)
 ---
 
 ## Features
